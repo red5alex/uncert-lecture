@@ -1,2 +1,2 @@
 # uncert-lecture
-introdcutiory lecture on uncertainty analysis in groundwater modelling
+introductory lecture on uncertainty analysis in groundwater modelling
